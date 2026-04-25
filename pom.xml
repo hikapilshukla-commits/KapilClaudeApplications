@@ -1,0 +1,32 @@
+<project>
+   <modelVersion>4.0.0</modelVersion>
+   <groupId>root</groupId>
+   <version>1.0</version>
+   <artifactId>project</artifactId>
+   <packaging>pom</packaging>
+   <name>project</name>
+   <modules>
+      <module>projects</module>
+      <module>primary-source</module>
+
+   </modules>
+   <build>
+      <pluginManagement>
+         <plugins>
+
+         </plugins>
+      </pluginManagement>
+   </build>
+   <dependencyManagement>
+      <dependencies>
+
+      </dependencies>
+   </dependencyManagement>
+<!--   <distributionManagement>-->
+<!--      <site>-->
+<!--         <id>site</id>-->
+<!--         <name>project website</name>-->
+<!--         <url>scp://local.company.com/websites/project.company.com/</url>-->
+<!--      </site>-->
+<!--   </distributionManagement>-->
+</project>
